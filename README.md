@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/quantgeekdev-mcp-framework-starter-badge.png)](https://mseep.ai/app/quantgeekdev-mcp-framework-starter)
+
 # mcp-framework-starter
 
 A Model Context Protocol (MCP) server built with mcp-framework.
